@@ -11,4 +11,4 @@ Technologies: Javascript, p5.js.
 ![](images/Capture1.PNG)
 
 ### Maze 2
-![](images/Capture2.PNG)
+![](images/Capture2.PNG) 
